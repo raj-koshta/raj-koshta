@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://raj-koshta.github.io/my-new-portfolio/](https://raj-koshta.github.io/my-new-portfolio/)
 
-- 💬 Ask me about **I am a passionate Java Web Developer seeking an opportunity to contribute to the success of company projects through innovative solutions and technical expertise.**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **rajkoshta.rk1@gmail.com**
 
