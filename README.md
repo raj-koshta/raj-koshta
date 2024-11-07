@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-koshta&label=Profile%20views&color=0e75b6&style=flat" alt="raj-koshta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-koshta" alt="raj-koshta" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/raj_koshta10" target="blank"><img src="https://img.shields.io/twitter/follow/raj_koshta10?logo=twitter&style=for-the-badge" alt="raj_koshta10" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=CnRVzwRdVIeSExy5yqTsgcM1fIiaB_7ebywnXjOeauo">
 
