@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm a highly motivated and detail-oriented Java Web Developer from India. I have a strong passion for delivering high-quality, efficient solutions.<br><br>- 🔭 I’m currently working on Electricity Billing System<br>- 🌱 I’m currently learning ReactJS<br>- 👯 I’m looking to collaborate with Java Web developers<br>- 👨‍💻 My Portfolio https://raj-koshta.github.io/portfolio/<br>-📫 How to reach me rajkoshta.rk1@gmail.com<br>-📄 Know about my experiences https://drive.google.com/file/d/1NUQOO_CzLXxXDy9VSuaHHpLHxEdEthdz/view</p>
+<p align="left">I'm a highly motivated and detail-oriented Java Web Developer from India. I have a strong passion for delivering high-quality, efficient solutions.<br><br>- 🔭 I’m currently working on Electricity Billing System<br>- 🌱 I’m currently learning ReactJS<br>- 👯 I’m looking to collaborate with Java Web developers<br>- 👨‍💻 My Portfolio https://raj-koshta.github.io/portfolio/<br>-📫 How to reach me rajkoshta.rk1@gmail.com<br>-📄 Know about my experiences https://drive.google.com/file/d/1q1HtLsFF9Nc5_X4Oyo4rDAIoR_R48l-X/view</p>
 
 ###
 
