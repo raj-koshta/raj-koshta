@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=raj-koshta&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
+<img align="right" width="380" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raj-koshta&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
 
 ```typescript
 const raj = {
@@ -48,7 +48,7 @@ const raj = {
   ],
 
   available : ["Full-time", "Freelance", "Remote"],
-  building  : "Electricity Billing System"
+  building  : "Vender Ecommerce System"
 };
 ```
 
