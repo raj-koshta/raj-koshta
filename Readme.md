@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Building+fast%2C+accessible+web+experiences+%F0%9F%9A%80;React.js+%7C+PHP+CodeIgniter+%7C+Java+EE+%7C+MySQL;Frontend-first%2C+Full-stack+capable+%E2%9A%A1;2%2B+Years+%7C+17%2B+Projects+%7C+Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Building+fast%2C+accessible+web+experiences+%F0%9F%9A%80;React.js+%7C+PHP+Developer+%7C+Java+EE+%7C+MySQL;Frontend-first%2C+Full-stack+capable+%E2%9A%A1;2%2B+Years+%7C+17%2B+Projects+%7C+Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG" />
 </a>
 
 <br/><br/>
